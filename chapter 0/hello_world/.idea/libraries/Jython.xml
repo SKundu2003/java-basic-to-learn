@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Jython">
+    <CLASSES>
+      <root url="file://C:/Jython" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Jython" recursive="false" />
+  </library>
+</component>
